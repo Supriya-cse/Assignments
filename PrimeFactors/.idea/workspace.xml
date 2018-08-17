@@ -7,6 +7,7 @@
       <change beforePath="$PROJECT_DIR$/../FizzBuzz/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FizzBuzz/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Horizontal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Horizontal/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Iscosceles/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Iscosceles/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jetbrains/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jetbrains/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RightTriangle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RightTriangle/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Vertical/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Vertical/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -27,12 +28,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="341" />
+          <entry key="java" value="371" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="341" />
+          <entry key="JAVA" value="371" />
         </counts>
       </usages-collector>
     </session>
@@ -42,8 +43,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/jetbrains/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+            <state relative-caret-position="217">
+              <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -87,7 +88,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534487348291" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534487547048" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -128,12 +129,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1534486671201</updated>
-      <workItem from="1534486675167" duration="628000" />
+      <workItem from="1534486675167" duration="874000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="628000" />
+    <option name="totallyTimeSpent" value="874000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="6" y="31" width="1346" height="688" extended-state="0" />
@@ -177,8 +178,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/jetbrains/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+        <state relative-caret-position="217">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
         </state>
       </provider>
     </entry>
